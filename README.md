@@ -7,9 +7,6 @@ Package to fetch js-generated web pages Based on code from https://github.com/fi
 
 [Docker](https://www.docker.com/) installed
 
-## ATTENTION ##
-
-Package runs not so fast, so do not use it as default to parse billion pages ;)
 
 ## USAGE ##
 

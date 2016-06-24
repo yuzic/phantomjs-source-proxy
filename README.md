@@ -15,7 +15,7 @@ Package runs not so fast, so do not use it as default to parse billion pages ;)
 
 ```
 composer install
-./phantomjs-source-proxy <PROXY_IP> <URL>
+./phantomjs-source-proxy <PROXY_IP:PORT> <URL>
 ```
 
 or

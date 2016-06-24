@@ -1,0 +1,12 @@
+{
+    "name": "yuzic/phantomjs-source-proxy",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "yuzic",
+            "email": "yuzic@land.ru"
+        }
+    ],
+    "bin": ["phantomjs-source-proxy"],
+    "require": {}
+}

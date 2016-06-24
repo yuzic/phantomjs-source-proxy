@@ -1,0 +1,4 @@
+#!/bin/sh
+
+docker run  --rm -v  `pwd`/src:/src  wernight/phantomjs phantomjs --proxy $1  /src/printSource.js $2
+

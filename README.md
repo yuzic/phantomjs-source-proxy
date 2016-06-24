@@ -15,12 +15,12 @@ Package runs not so fast, so do not use it as default to parse billion pages ;)
 
 ```
 composer install
-./phantomjs-source-proxy <PROXY_IP:PORT> <URL>
+./phantomjs-source-proxy <any phantomjs parametrs> printSource.js <URL>
 ```
 
 or
 
 ```
 composer require yuzic/phantomjs-source-proxy
-./vendor/bin/phantomjs-source-proxy <URL>
+./vendor/bin/phantomjs-source-proxy  <any phantomjs parametrs>  printSource.js <URL>
 ```
